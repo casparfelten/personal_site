@@ -4,7 +4,6 @@
 title: About
 ---
 
-[About Me](about_me)
 
 [Contact Details](contact_details)
 
