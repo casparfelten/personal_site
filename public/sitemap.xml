@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://casparfelten.com/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://casparfelten.com/posts/first_post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://casparfelten.com/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
     <loc>http://casparfelten.com/essays/first_leibniz_essay/</loc>
   </url><url>
     <loc>http://casparfelten.com/about/</loc>
@@ -25,10 +16,8 @@
   </url><url>
     <loc>http://casparfelten.com/about/harvard_application/</loc>
   </url><url>
-    <loc>http://casparfelten.com/essays/ottoman_old/</loc>
+    <loc>http://casparfelten.com/</loc>
   </url><url>
     <loc>http://casparfelten.com/tags/</loc>
-  </url><url>
-    <loc>http://casparfelten.com/essays/test2essay/</loc>
   </url>
 </urlset>
