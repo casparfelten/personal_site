@@ -1,0 +1,26 @@
+baseURL = 'http://casparfelten.com/'
+languageCode = 'en-us'
+title = 'Caspar Felten'
+theme = "ananke"
+# sectionPagesMenu = 'main'
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  url = "/"
+  weight = 10
+
+  [[menu.main]]
+  name = "Essays"
+  identifier = "essays"
+  url = "/essays/"
+  weight = 20
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about"
+  weight = 30

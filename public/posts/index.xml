@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Caspar Felten</title>
+    <link>http://casparfelten.com/posts/</link>
+    <description>Recent content in Posts on Caspar Felten</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://casparfelten.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://casparfelten.com/posts/first_post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://casparfelten.com/posts/first_post/</guid>
+      <description>Post This is a post. The first post in fact. a post.</description>
+    </item>
+  </channel>
+</rss>

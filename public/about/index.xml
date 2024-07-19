@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Caspar Felten</title>
+    <link>http://casparfelten.com/about/</link>
+    <description>Recent content in About on Caspar Felten</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://casparfelten.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://casparfelten.com/about/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/about_me/</guid>
+      <description>I am Caspar Franz Aurelius Mason Felten.&#xA;Contact Details In Lieu of a CV</description>
+    </item>
+    <item>
+      <title>Contact Details</title>
+      <link>http://casparfelten.com/about/contact_details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/contact_details/</guid>
+      <description>Name Mr. Caspar Felten&#xA;Email: casparfelten@tutanota.com&#xA;Phone: US +1 415 745 7131&#xA;UK: +44 7710 080 444</description>
+    </item>
+    <item>
+      <title>In Lieu of a CV</title>
+      <link>http://casparfelten.com/about/harvard_application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/harvard_application/</guid>
+      <description>In lieu of a CV, I have included my personal essays from an application to Harvard Precollege Summer school, as they are a fair indication of my personality and experience. They roughly cover the same range that a CV and interview would, and are thus given as an ersatz-CV. There may also be non-personal essays of mine posted elsewhere on the site, if that is of interest. Essays&#xA;Harvard Summer School High School Program Application Caspar Felten Jan 2024 Essays Instructions: Because we are interested in how you think and how you write, application essays must be your (the applicant&amp;rsquo;s) own words.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Caspar Felten</title>
+    <link>http://casparfelten.com/</link>
+    <description>Recent content in Index on Caspar Felten</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://casparfelten.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://casparfelten.com/posts/first_post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://casparfelten.com/posts/first_post/</guid>
+      <description>Post This is a post. The first post in fact. a post.</description>
+    </item>
+    <item>
+      <title>A syncretism of Leibniz’s monadology and agent-causal free will</title>
+      <link>http://casparfelten.com/essays/first_leibniz_essay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/essays/first_leibniz_essay/</guid>
+      <description>Or, “An adaptation of monadology to include free will”&#xA;Leibniz’s theory of monadology has a number of interesting properties. It is an elegant conception of a universe constructed out of unchanging and indivisible structures called “monads”. However, its deterministic nature, while allowing for Leibniz’s compatibilist conception of free will, is contradictory to a libertarian conception of human free will as independent and unpredictable.&#xA;In this essay, I will attempt to resolve these contradictions and adapt monadology to include libertarian free will, by positing the unpredictability of free will as the influence of an unknown ‘black box’ inside the monad.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://casparfelten.com/about/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/about_me/</guid>
+      <description>I am Caspar Franz Aurelius Mason Felten.&#xA;Contact Details In Lieu of a CV</description>
+    </item>
+    <item>
+      <title>Contact Details</title>
+      <link>http://casparfelten.com/about/contact_details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/contact_details/</guid>
+      <description>Name Mr. Caspar Felten&#xA;Email: casparfelten@tutanota.com&#xA;Phone: US +1 415 745 7131&#xA;UK: +44 7710 080 444</description>
+    </item>
+    <item>
+      <title>In Lieu of a CV</title>
+      <link>http://casparfelten.com/about/harvard_application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/about/harvard_application/</guid>
+      <description>In lieu of a CV, I have included my personal essays from an application to Harvard Precollege Summer school, as they are a fair indication of my personality and experience. They roughly cover the same range that a CV and interview would, and are thus given as an ersatz-CV. There may also be non-personal essays of mine posted elsewhere on the site, if that is of interest. Essays&#xA;Harvard Summer School High School Program Application Caspar Felten Jan 2024 Essays Instructions: Because we are interested in how you think and how you write, application essays must be your (the applicant&amp;rsquo;s) own words.</description>
+    </item>
+    <item>
+      <title>Old Ottoman Essay Fragment</title>
+      <link>http://casparfelten.com/essays/ottoman_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/essays/ottoman_old/</guid>
+      <description>In this essay I will be exploring how the Ottoman cultural identity formed and developed. The Ottoman Empire, a Turkic nation, was strongly influenced by previous Arab, Roman, and Persian culture, but also formed a distinct identity of its own. As the Ottoman Empire grew, the Ottomans&amp;rsquo; ethnic identity as Oghuz Turks developed into an imperial identity that transcended ethnic bounds. Their identity was also largely shaped by the religious tension of a Muslim state with a large Christian population (and to a lesser extent, other religious minorities).</description>
+    </item>
+    <item>
+      <title>Test 2</title>
+      <link>http://casparfelten.com/essays/test2essay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://casparfelten.com/essays/test2essay/</guid>
+      <description>This is a second test</description>
+    </item>
+  </channel>
+</rss>
