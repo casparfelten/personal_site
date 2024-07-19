@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="http://casparfelten.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>http://casparfelten.com/about/about_me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://casparfelten.com/about/about_me/</guid>
-      <description>Caspar Felten&#xA;Contact Details In Lieu of a CV</description>
-    </item>
-    <item>
       <title>Contact Details</title>
       <link>http://casparfelten.com/about/contact_details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
