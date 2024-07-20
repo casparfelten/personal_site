@@ -5,13 +5,14 @@ title: Contact Details
 Mr. Caspar Felten
 
 ### Email:
-casparfelten@tutanota.com
+contactcaspar at tuta.com
 
 ### Phone:
 
 #### US
-+1 415 745 7131
++I 4I5 966 I26O
 
 #### UK:
-+44 7710 080 444
++44 77IO O8O 444
+
 
