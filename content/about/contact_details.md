@@ -16,3 +16,4 @@ contactcaspar at tuta.com
 +44 77IO O8O 444
 
 
+(Contact details are formatted strangely to avoid spam)
